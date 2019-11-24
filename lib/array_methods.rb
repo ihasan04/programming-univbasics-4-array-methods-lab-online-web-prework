@@ -13,7 +13,7 @@ end
 
 def using_first(array)
 test_array = ["Hi", "rana", "hello"]
-array.first
+test_array.first
 end
 
 def using_last(array)
