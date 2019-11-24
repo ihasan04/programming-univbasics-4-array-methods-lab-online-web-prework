@@ -12,8 +12,7 @@ array.reverse
 end
 
 def using_first(array)
-test_array = ["wow", "I", "am", "really", "learning", "arrays!"]
-test_array.first
+array.first
 end
 
 def using_last(array)
