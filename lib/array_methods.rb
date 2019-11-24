@@ -3,7 +3,7 @@ array.include?(element)
 end
 
 def using_sort(array)
-  array.sort
+array.sort
 
 end
 
@@ -12,6 +12,7 @@ array.reverse
 end
 
 def using_first(array)
+test_array = ["Hi", "rana", "hello"]
 array.first
 end
 
