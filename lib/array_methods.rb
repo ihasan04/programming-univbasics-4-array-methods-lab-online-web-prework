@@ -12,7 +12,7 @@ array.reverse
 end
 
 def using_first(array)
-test_array = ["Hi", "rana", "hello"]
+test_array = ["wow", "I", "am", "really", "learning", "arrays!"]
 test_array.first
 end
 
